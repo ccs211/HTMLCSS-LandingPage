@@ -187,6 +187,12 @@ section {
   background-position: center center;
   text-transform: uppercase;
 }
+/* prettier-ignore */
+.hero h1, .hero h2 {
+  font-size: 63px;
+  font-weight: 700;
+  line-height: 0.9;
+}
 
 .hero h1 {
   position: relative;
@@ -195,13 +201,6 @@ section {
 
 .hero h2 {
   color: #faa541;
-}
-
-.hero h1,
-.hero h2 {
-  font-size: 63px;
-  font-weight: 700;
-  line-height: 0.9;
 }
 
 .hero p {
